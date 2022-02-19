@@ -5,6 +5,13 @@ import threading
 from threading import Thread
 
 os.system("clear")
+logo""""│                        ████████╗███████╗███████╗                        │
+│                        ╚══██╔══╝██╔════╝╚══███╔╝                        │
+│                           ██║   ███████╗  ███╔╝                         │
+│                           ██║   ╚════██║ ███╔╝
+  │
+│                           ██║   ███████║███████╗                        │
+│                           ╚═╝   ╚══════╝╚══════╝"""
 print("")
 print("""\033[92mํYouTube:Tsz X""")
 print("FB:ลา เต้.")
