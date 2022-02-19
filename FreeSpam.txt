@@ -1,3 +1,10 @@
+import requests
+import os
+import time
+import threading
+from threading import Thread
+
+os.system("clear")
 print("▀▀▀██▀▀▀
 
     ██     ▄▄█████▄  ████████
@@ -7,13 +14,7 @@ print("▀▀▀██▀▀▀
     ██      ▀▀▀▀██▄    ▄█▀
 
     ██     █▄▄▄▄▄██  ▄██▄▄▄▄▄")
-import requests
-import os
-import time
-import threading
-from threading import Thread
 
-os.system("clear")
 print("""\033[92mํYouTube:Tsz X""")
 print("FB:ลา เต้.")
 print("")
