@@ -10,7 +10,7 @@ print("YouTube:Tsz X")
 print("FB:ที เอ อี..")
 print("Line:tae92283")
 print("Github:Tae92283")
-print("wallet 0957961156")
+print("Tiktok:tsz_x
 print("##########################################################")
 print("")
 phone = input("Phone : ")
