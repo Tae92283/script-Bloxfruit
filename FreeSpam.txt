@@ -5,7 +5,7 @@ import threading
 from threading import Thread
 
 os.system("clear")
-print("▀▀▀██▀▀▀
+logo("▀▀▀██▀▀▀
 
     ██     ▄▄█████▄  ████████
 
