@@ -12,7 +12,7 @@ print("")
 phone = input("Phone : ")
 num = int(input("Number : "))
 print("")
-print("________________________waiting__________________________")
+print("________________________กำลังทำงาน__________________________")
 
 
 def API_1():  # SSO
@@ -644,3 +644,5 @@ for i in range(num):
     threading.Thread(target=API_26).start()
     threading.Thread(target=API_27).start()
     threading.Thread(target=API_28).start()
+    prient("")
+    print("________________________ยิงเสร็จสิ้น__________________________")
