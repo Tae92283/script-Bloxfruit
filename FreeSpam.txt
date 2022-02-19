@@ -644,5 +644,4 @@ for i in range(num):
     threading.Thread(target=API_26).start()
     threading.Thread(target=API_27).start()
     threading.Thread(target=API_28).start()
-    print("")
-    print("________________________ยิงเสร็จสิ้น__________________________")
+    
